@@ -28,7 +28,7 @@ Sort::Array - rozszerzony algorytm sortowania pozwalaj±cy na:
 %setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
-perl Makefile.PL
+%{__perl} Makefile.PL
 %{__make}
 
 %install
