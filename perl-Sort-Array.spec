@@ -5,7 +5,7 @@ Summary:	Sort::Array Perl module
 Summary(pl):	Modu³ Perla Sort::Array
 Name:		perl-Sort-Array
 Version:	0.26
-Release:	1
+Release:	2
 License:	Artistic or GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
