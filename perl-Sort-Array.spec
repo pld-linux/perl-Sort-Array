@@ -9,7 +9,7 @@ Summary:	Sort::Array Perl module
 Summary(pl):	Modu³ Perla Sort::Array
 Name:		perl-Sort-Array
 Version:	0.26
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
