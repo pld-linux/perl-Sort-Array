@@ -3,8 +3,8 @@
 %bcond_without  tests   # do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Sort
-%define		pnam	Array
+%define	pdir	Sort
+%define	pnam	Array
 Summary:	Sort::Array Perl module
 Summary(pl):	Modu³ Perla Sort::Array
 Name:		perl-Sort-Array
