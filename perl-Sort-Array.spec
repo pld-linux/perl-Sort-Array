@@ -30,7 +30,7 @@ Sort::Array - rozszerzony algorytm sortowania pozwalaj±cy na:
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
