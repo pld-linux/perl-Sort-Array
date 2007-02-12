@@ -6,7 +6,7 @@
 %define		pdir	Sort
 %define		pnam	Array
 Summary:	Sort::Array Perl module
-Summary(pl):	Modu³ Perla Sort::Array
+Summary(pl.UTF-8):   ModuÅ‚ Perla Sort::Array
 Name:		perl-Sort-Array
 Version:	0.26
 Release:	3
@@ -25,10 +25,10 @@ Sort::Array - this extended sorting algorithm allows you to:
 - sort an array by ANY field number, not only the first,
 - find duplicates in your data-set and sort them out.
 
-%description -l pl
-Sort::Array - rozszerzony algorytm sortowania pozwalaj±cy na:
+%description -l pl.UTF-8
+Sort::Array - rozszerzony algorytm sortowania pozwalajÄ…cy na:
 - sortowanie tablicy po dowolnym polu, nie koniecznie pierwszym,
-- wyszukiwanie duplikatów w zbiorze danych i odsortowywanie ich.
+- wyszukiwanie duplikatÃ³w w zbiorze danych i odsortowywanie ich.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
