@@ -6,7 +6,7 @@
 %define		pdir	Sort
 %define		pnam	Array
 Summary:	Sort::Array Perl module
-Summary(pl.UTF-8):   Moduł Perla Sort::Array
+Summary(pl.UTF-8):	Moduł Perla Sort::Array
 Name:		perl-Sort-Array
 Version:	0.26
 Release:	3
