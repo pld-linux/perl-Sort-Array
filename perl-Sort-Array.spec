@@ -4,7 +4,6 @@
 
 %define		pdir	Sort
 %define		pnam	Array
-%include	/usr/lib/rpm/macros.perl
 Summary:	Sort::Array Perl module
 Summary(pl.UTF-8):	Moduł Perla Sort::Array
 Name:		perl-Sort-Array
